@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+
+[[files]]
 file = "config/AncientSpellcraft.cfg"
 hash = "85f61428755b4f19eef3cbf7fa9769cfa00a4aec8380ade5381f7bf4e79ca7ae"
 
@@ -2631,7 +2635,7 @@ metafile = true
 
 [[files]]
 file = "mods/hwyla.pw.toml"
-hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+hash = "edb073f787ca66afbc308480a2441efcc36d5faf7611047b1a514d90cb3e716d"
 metafile = true
 
 [[files]]
@@ -2661,7 +2665,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
+hash = "d8c87e415ea74ba9a022443814e825a0ee0721ea6b756c24812f44f33057423b"
 metafile = true
 
 [[files]]
