@@ -2932,11 +2932,6 @@ hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-disassembler.pw.toml"
-hash = "d1712d978ff1490125fba196146152dcf626f6a927e29408da8ac95538af1f0a"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-jei.pw.toml"
 hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
 metafile = true
