@@ -2907,6 +2907,11 @@ hash = "e0baa0f2e724eb09fb9bb18e825a842e1883662d8bcc4506e7dfd262250a7bf7"
 metafile = true
 
 [[files]]
+file = "mods/taiga-tinkers-alloying-addon.pw.toml"
+hash = "b0b818fb4dfdadcf3e5f33d2fa6f268c3e7352be2ce69cfd4a5872e7e8e32315"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
