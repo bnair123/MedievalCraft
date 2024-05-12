@@ -1,0 +1,13 @@
+name = "wizardryport"
+filename = "WitcheryResurrected-1.12.2-0.5.2.4-forge-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5e9e423a5393c9beaa43e801e73b3bb3b36a2c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4588392
+project-id = 874671

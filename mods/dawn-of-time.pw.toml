@@ -1,0 +1,13 @@
+name = "Dawn Of Time - Builder Edition "
+filename = "dawnoftime_builder_edition-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39cbfb7fd08a84cb0e0037577018cdc0c5c002de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2904632
+project-id = 312359

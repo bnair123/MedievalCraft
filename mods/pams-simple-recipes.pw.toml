@@ -1,0 +1,13 @@
+name = "Pam's Simple Recipes"
+filename = "Pam's Simple Recipes 1.12.2c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fed3bce7933eaa5a27d8fd78676d68c364d92ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2520943
+project-id = 221915

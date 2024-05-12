@@ -1,0 +1,13 @@
+name = "Automation Mod"
+filename = "automation-0.4.0-alpha.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c04c124754e9a06edd4c0b2b19433f5e097d0713"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3261229
+project-id = 437277

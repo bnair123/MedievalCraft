@@ -1,0 +1,13 @@
+name = "alcoholic craft"
+filename = "alcoholic v.1.1.1 1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11f37c10742e58bc478488cd2e8ce6ef27cdf5d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3398632
+project-id = 500648

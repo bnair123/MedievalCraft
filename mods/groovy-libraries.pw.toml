@@ -1,0 +1,13 @@
+name = "Groovy Libraries"
+filename = "groovy-libraries-1.12.2-forge-3.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99f27c4ef4b0ba98d4889b37e2c41152d7be16f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3198976
+project-id = 439568

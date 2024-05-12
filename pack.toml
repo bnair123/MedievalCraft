@@ -1,0 +1,13 @@
+name = "MedievalCraft"
+author = "YourMom"
+version = "1.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b8d3bc951513a8f49c3882b5a985cfa7dc1f8fda118ba116c73b63a157cf1584"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"

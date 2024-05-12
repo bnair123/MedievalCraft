@@ -1,0 +1,13 @@
+name = "Clay Soldiers Mod"
+filename = "ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fd05d14f87cd095afec3df3b3cc6d3ecaec84e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2653725
+project-id = 227543

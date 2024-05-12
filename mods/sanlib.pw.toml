@@ -1,0 +1,13 @@
+name = "SanLib"
+filename = "SanLib-1.12.2-1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e80a0007209ada6cc260d810386fc7d03bc453f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3312635
+project-id = 259724

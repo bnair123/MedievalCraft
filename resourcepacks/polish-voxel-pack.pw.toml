@@ -1,0 +1,13 @@
+name = "[IR] Polish Voxel Pack"
+filename = "Polish Voxel Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dd981e778aaf21de9c14687f018c5888641fe94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5243486
+project-id = 836421

@@ -1,0 +1,13 @@
+name = "Valkyrien Skies Control"
+filename = "vs-control-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf9242726ad6707144886cc3849c0ead26648345"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3160203
+project-id = 404463

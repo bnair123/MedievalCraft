@@ -1,0 +1,13 @@
+name = "Voxel subway pack"
+filename = "Voxel subway pack-pre1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c364812c88de25c74d652e283bbd0fa1127709bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3050094
+project-id = 378929

@@ -1,0 +1,13 @@
+name = "Historicized Medicine"
+filename = "historicizedmedicine-1.3.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d76334fa1b14332fe8896f00a443a7a5ed1c4e8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2704356
+project-id = 293671

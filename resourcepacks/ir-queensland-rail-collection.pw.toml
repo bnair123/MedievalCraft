@@ -1,0 +1,13 @@
+name = "[Immersive Railroading] - Queensland Rail Collection"
+filename = "QR Package v1.7.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "011afa4627fea5430c1914974605b28fc8fa15e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3441963
+project-id = 515481
