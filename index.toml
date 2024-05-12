@@ -2917,6 +2917,11 @@ hash = "0d41d810899753f7e99e0e959c9fec70e63c8955e64ee84e500addb7cf119715"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-complement.pw.toml"
+hash = "d2ea631f738d6cd7423210f2d34c4157149d358a15b763f054f53c25cfb91284"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
