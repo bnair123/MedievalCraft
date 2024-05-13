@@ -2479,11 +2479,6 @@ hash = "5b4f4320ab870550f1e2155f0e0eaf1f7cf64000881838bd0e34adda979ffd7b"
 metafile = true
 
 [[files]]
-file = "mods/betterslabs.pw.toml"
-hash = "c4274b729ecfb2ab821dcee77613ed9f6b2aaf07f230214549cc4ad2a448deb5"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -2993,6 +2988,11 @@ metafile = true
 [[files]]
 file = "mods/universal-mod-core.pw.toml"
 hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
+metafile = true
+
+[[files]]
+file = "mods/uslabs.pw.toml"
+hash = "5f6f5b2586c1e53d89675b506c46a2513f446350f1afca70af4b1ce4a4957bba"
 metafile = true
 
 [[files]]

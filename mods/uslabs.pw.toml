@@ -1,0 +1,13 @@
+name = "Vertical Slab"
+filename = "USlabs v1.1 BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35f006cd05590db30eb9acb7a3674fe9ffc4d2e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3163669
+project-id = 416757
