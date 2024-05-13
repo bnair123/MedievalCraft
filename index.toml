@@ -2419,6 +2419,11 @@ hash = "5304f90eb3d9e459c61d13c2cbc53152f61520f69a2b7b3202eacf000c3ef7a0"
 metafile = true
 
 [[files]]
+file = "mods/applecore.pw.toml"
+hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
@@ -2471,6 +2476,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "5b4f4320ab870550f1e2155f0e0eaf1f7cf64000881838bd0e34adda979ffd7b"
+metafile = true
+
+[[files]]
+file = "mods/betterslabs.pw.toml"
+hash = "c4274b729ecfb2ab821dcee77613ed9f6b2aaf07f230214549cc4ad2a448deb5"
 metafile = true
 
 [[files]]
@@ -2546,6 +2556,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "b5b6687381fb9448bd810d5c10896fd095e256d2effcc4aa602e7824e5a65903"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
@@ -2898,6 +2913,11 @@ metafile = true
 [[files]]
 file = "mods/sanlib.pw.toml"
 hash = "2bb9993dc5eecaea21c3f52c8876ab3e80327ebac1b5c4f994c2ceb5ed59ef3f"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
 metafile = true
 
 [[files]]
