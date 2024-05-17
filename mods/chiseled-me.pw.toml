@@ -1,0 +1,13 @@
+name = "Chiseled Me"
+filename = "chiseled-me-1.12-3.0.0.0-git-e5ce416.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94526924c3a6109ffc763345dfecd17bd0c649a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3467731
+project-id = 250075
