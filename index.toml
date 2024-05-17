@@ -2941,11 +2941,6 @@ hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "93fd2761d696a2d3172ac7f108b0b5a0aed1adcd96084ef590e95e8a494afca7"
-metafile = true
-
-[[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "1b4a0a19615a8b8ed0d78ddfd05fa3ee59f7050a8a4490de0e800115c0b66885"
 metafile = true
