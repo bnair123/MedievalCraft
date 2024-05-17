@@ -2544,11 +2544,6 @@ hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
-file = "mods/chiseled-me.pw.toml"
-hash = "b0076c622dd13f6e1abd034d8f0197322ed0a11d96158cd0055053b932781862"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
