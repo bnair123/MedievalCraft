@@ -2419,6 +2419,11 @@ hash = "5304f90eb3d9e459c61d13c2cbc53152f61520f69a2b7b3202eacf000c3ef7a0"
 metafile = true
 
 [[files]]
+file = "mods/animus.pw.toml"
+hash = "5054812fbdd2e49509d2c5fc78712733d6b0ed377a97ed9942f5769efc6133fc"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -2479,6 +2484,11 @@ hash = "5b4f4320ab870550f1e2155f0e0eaf1f7cf64000881838bd0e34adda979ffd7b"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -2526,6 +2536,16 @@ metafile = true
 [[files]]
 file = "mods/chameleon.pw.toml"
 hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
 
 [[files]]
@@ -2624,6 +2644,11 @@ hash = "0fdd2a5c64ab8a1868bf851248001ec57b7ff706ea9318d1f5188c9649f77525"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "70638c6353e210b53ce56f4707e3bf7ae4b45860f19b28e438ffe0babce649a5"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
 metafile = true
@@ -2694,6 +2719,11 @@ hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
+metafile = true
+
+[[files]]
 file = "mods/llibrary.pw.toml"
 hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
 metafile = true
@@ -2731,6 +2761,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "f93293e6519d3f3a0abdd03d29b64b089f6802ba45238d43176f9c5bd3923b94"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "827ae3e6a8291fbbb248e7fe78d45726c5974ad9d664a70adc1e31038ca7857a"
 metafile = true
 
 [[files]]
@@ -2896,8 +2931,18 @@ hash = "6d1e4113fd10720580010c66da6fde8d4ac7e783543e0cf3afa4814bbc80d9f5"
 metafile = true
 
 [[files]]
+file = "mods/player-trade-secure-trading-between-players.pw.toml"
+hash = "fe9f8872bd5128de99da8bb5684a1c49c9fc4939ef21e5fb561eec064ff9ea1a"
+metafile = true
+
+[[files]]
 file = "mods/psi.pw.toml"
 hash = "cc7b434e7c2d7269b9835b184ab25c91c16d64195426c5ce37fde18d4c800fd2"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "93fd2761d696a2d3172ac7f108b0b5a0aed1adcd96084ef590e95e8a494afca7"
 metafile = true
 
 [[files]]
