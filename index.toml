@@ -2634,6 +2634,11 @@ hash = "61e034949471bbcc0161cfb955c80adebacd9a00f8bf326b003dc68bc833a4be"
 metafile = true
 
 [[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
@@ -2641,6 +2646,11 @@ metafile = true
 [[files]]
 file = "mods/franciscofunari.pw.toml"
 hash = "0fdd2a5c64ab8a1868bf851248001ec57b7ff706ea9318d1f5188c9649f77525"
+metafile = true
+
+[[files]]
+file = "mods/future-mc.pw.toml"
+hash = "99f5e34acfc843c862c1b9971f201600c943062b020eb9af551dfe90251ab523"
 metafile = true
 
 [[files]]
@@ -2943,6 +2953,11 @@ metafile = true
 [[files]]
 file = "mods/sanlib.pw.toml"
 hash = "2bb9993dc5eecaea21c3f52c8876ab3e80327ebac1b5c4f994c2ceb5ed59ef3f"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
